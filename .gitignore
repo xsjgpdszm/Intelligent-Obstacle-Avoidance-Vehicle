@@ -1,0 +1,12 @@
+.vscode/
+*.bin
+*.hex
+*.elf
+build/
+.pio/
+*.log
+*.tmp
+.DS_Store
+
+# Arduino sketch artifacts
+*.ino.*
